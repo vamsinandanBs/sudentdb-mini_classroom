@@ -48,22 +48,31 @@ viii)Lab1 ix)Lab2 x)Extra Subject1
 2.3.8 Contact Us:
 i)Full Name ii)Email_Id iii)Message
 #sharing notes
+
 <img width="949" alt="sharing notes" src="https://user-images.githubusercontent.com/61873858/113497155-b8633900-951e-11eb-9342-8258d689875b.png">
+
 #most viwed posts circulars from teachers(admins)
 <img width="604" alt="most-viewed-posts" src="https://user-images.githubusercontent.com/61873858/113497160-d761cb00-951e-11eb-8219-88bcaf1a50fc.png">
+
 #different categories of posts
+
 <img width="605" alt="categoires" src="https://user-images.githubusercontent.com/61873858/113497183-1bed6680-951f-11eb-94ca-1f29728a6cf5.png">
 
 #sigin page , with password recovery technique
+
 <img width="615" alt="createaccount" src="https://user-images.githubusercontent.com/61873858/113497196-46d7ba80-951f-11eb-9098-20eec9c4e372.png">
 
 
 #admin pannel
+
 <img width="960" alt="admin panel users" src="https://user-images.githubusercontent.com/61873858/113497204-6838a680-951f-11eb-92b2-13285731aa12.png">
 
 #comments and induvidual message replay from tecahers admins
+
 <img width="485" alt="contactus messages" src="https://user-images.githubusercontent.com/61873858/113497246-c2d20280-951f-11eb-9f26-4f0b085bdcf1.png">
+
 #adding marks and basic deatils of students
+
 <img width="509" alt="adding marks" src="https://user-images.githubusercontent.com/61873858/113497264-f4e36480-951f-11eb-8e80-a773d12861c1.png">
 
 
